@@ -1,7 +1,4 @@
 # Roman Sokol
-## Website
-[Personal](https://romansokol.com)
-
 ## Skills
 
 Languages:
