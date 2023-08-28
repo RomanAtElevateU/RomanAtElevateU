@@ -1,4 +1,3 @@
-# Roman Sokol
 ## Skills
 
 Languages:
